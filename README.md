@@ -1,4 +1,4 @@
-# TaskFlow
+# TaskFlow Productivity Planner
 
 TaskFlow is a React productivity dashboard for planning tasks, organizing priorities, and moving work through a simple board-style workflow. I built it as a portfolio project to practice turning a basic to-do list idea into something that feels closer to a real productivity app.
 
@@ -57,7 +57,7 @@ npm run build
 
 ## Repository Name Ideas
 
-1. `taskflow-productivity-planner`
+1. `taskflow-planner-dashboard`
 2. `workflow-task-management-dashboard`
 3. `personal-productivity-planner-react`
 
@@ -75,4 +75,8 @@ React task management dashboard with workflow lanes, filters, local storage, and
 
 ## LinkedIn Project Description
 
-TaskFlow is a React task management dashboard I built to practice building a more complete front-end app. It lets users create detailed tasks, organize them by priority and status, filter/search their work, save data in the browser, and export or import planner files. This project helped me get more comfortable with React state, derived data, browser storage, and responsive dashboard design.
+TaskFlow Productivity Planner is a React task management dashboard I built to practice building a more complete front-end app. It lets users create detailed tasks, organize them by priority and status, filter/search their work, save data in the browser, and export or import planner files. This project helped me get more comfortable with React state, derived data, browser storage, and responsive dashboard design.
+
+## Short Portfolio Description
+
+A React productivity planner with workflow lanes, task filters, local storage, and import/export tools.
